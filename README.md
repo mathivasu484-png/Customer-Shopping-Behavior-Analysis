@@ -178,6 +178,3 @@ The dashboard displays **646 customers**, an **average review rating of 3.77**, 
 ## 👩‍💻 Author
 
 R S Vasumathi
-
-* LinkedIn: [Your LinkedIn Profile URL]
-* GitHub: [Your GitHub Profile URL]
