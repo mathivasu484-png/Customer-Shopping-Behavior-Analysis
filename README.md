@@ -173,7 +173,6 @@ The project combines Python-based data preparation, PostgreSQL analysis, and Pow
 
 The dashboard displays **646 customers**, an **average review rating of 3.77**, and an **average purchase amount of $60.48**. The analysis supports business recommendations related to subscription growth, customer loyalty, discount management, product positioning, and targeted marketing.
 
-*Note: These KPI values are taken from the dashboard screenshot. Add further numerical findings from your SQL analysis to strengthen the results section.*
 
 ## 👩‍💻 Author
 
